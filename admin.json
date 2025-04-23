@@ -1,8 +1,6 @@
 {
-  "user": [
-    {
-      "userid": 123,
-      "pw": "admin123"
-    }
-  ]
+  "user": {
+    "userid": "123",
+    "password": "admin123"
+  }
 }
